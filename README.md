@@ -1,6 +1,11 @@
 # React Native Navigation explained
 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
 notes are abridged from this link: https://reactnative.dev/docs/navigation
+
+[image](./iphone.png)
 
 ```
 npm install @react-navigation/native @react-navigation/native-stack
