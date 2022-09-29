@@ -5,7 +5,7 @@
 
 notes are abridged from this link: https://reactnative.dev/docs/navigation
 
-[image](./iphone.png)
+![image](./iphone.png)
 
 ```
 npm install @react-navigation/native @react-navigation/native-stack
